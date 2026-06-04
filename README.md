@@ -360,7 +360,7 @@ CREATE TABLE online_retail (
 ##  Related Projects
 
 - [Sales & HR Analytics Dashboard (Excel)](https://github.com/DanFalak7/Sales_HR_Analytics---Excel) — 7 KPI cards, 4 charts
-- [HR Analytics Dashboard (Power BI)](https://github.com/DanFalak7/hr-analytics-powerbi) — Advanced DAX, heatmaps
+- [HR Analytics Dashboard (Power BI)](https://github.com/DanFalak7/HR-Analytics_PowerBI) — Advanced DAX, heatmaps
 
 ##  Next Steps
 
